@@ -9,7 +9,7 @@ Kruby, Krubo, Kruberto...
 I’m currently learning ...
 ReactJS, NodeJS, C# for videogames and Photoshop/Visual productions for marketing.
 
-# Wenas!, soy Kruby
+# Soy Kruby
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" />
 
