@@ -1,4 +1,4 @@
-# Basically a dude trying to make his life by coding.
+# Krubo
 
 I’m currently working at Internet Brands as QA Tester Engineer JR and Saxevil Studio as PHP Developer and Hosting Manager.
 
